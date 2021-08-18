@@ -150,5 +150,6 @@ async def 멜론(ctx):
 
 access_token=os.environ["BOT_TOKEN"] 
 bot.run(access_token)
+print(res)
 
 
